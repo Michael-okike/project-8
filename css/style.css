@@ -10,9 +10,6 @@ input,
 body {
   font-family: "Open Sans", sans-serif !important;
 }
-.login {
-  min-height: 100vh;
-}
 .submit:hover {
   background-color: rgba(217, 217, 217, 0.5);
 }
