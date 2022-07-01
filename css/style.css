@@ -1,20 +1,21 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-input, .btn{
-    background-color: rgba(217, 217, 217, 0.5);
+input,
+.btn {
+  background-color: rgba(217, 217, 217, 0.5);
 }
-body{
-    font-family: 'Open Sans', sans-serif !important;
+body {
+  font-family: "Open Sans", sans-serif !important;
 }
-.login{
-    min-height: 100vh;
+.login {
+  min-height: 100vh;
 }
-.submit:hover{
-    background-color: rgba(217, 217, 217, 0.5);
+.submit:hover {
+  background-color: rgba(217, 217, 217, 0.5);
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
