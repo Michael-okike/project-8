@@ -5,13 +5,13 @@
 }
 input,
 .btn {
-  background-color: rgba(217, 217, 217, 0.5);
+  background-color: rgba(217, 217, 217, 0.5) !important;
 }
 body {
   font-family: "Open Sans", sans-serif !important;
 }
 .submit:hover {
-  background-color: rgba(217, 217, 217, 0.5);
+  background-color: rgba(217, 217, 217, 0.5) !important;
 }
 a {
   text-decoration: none;
